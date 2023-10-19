@@ -1,0 +1,22 @@
+.h21 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
+
+body {
+    background-color: rgb(58, 56, 56);
+}
+
+.p2 {
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-right: 1100px;
+    border: dashed yellow;
+    border-radius: 20px;
+}
+
